@@ -1,4 +1,4 @@
-# Brief-C2N2
+# Ateliers C2N2
 ## Contexte
 Dans ce Brief vous allez développer un site web statique en se basant sur la maquette proposée, en respectant la charte graphique et le contenu du site web, vous devez héberger le site web sur un serveur gratuit tel que Github ou bien Netlify.
 
